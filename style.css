@@ -7,7 +7,7 @@ body {
 }
 
 .ui.button.item {
-  padding: 12px;
+  padding: 16px;
   font-weight: bold;
   data-position: bottom center;
 }
@@ -17,4 +17,11 @@ h4 {
   font-weight: bold;
   padding: 12px;
   font-weight: bold;
+}
+
+h3 {
+  font-family: Roboto;
+}
+li {
+  list-style-type: none;
 }
